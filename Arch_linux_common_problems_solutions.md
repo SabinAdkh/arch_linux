@@ -170,3 +170,9 @@ source ~/.zshrc
 ```bash 
 https://github.com/particleofmass/i3wm_screen_brightness
 ```
+
+## To Enable Screen Sharing using Xorg in Arch and Manjaro
+> check the following link
+```bash
+https://docs.fedoraproject.org/en-US/quick-docs/configuring-xorg-as-default-gnome-session/
+```
