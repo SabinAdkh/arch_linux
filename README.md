@@ -1,6 +1,6 @@
-> dotefiles contains config files for shell , terminal, i3 and polybar
+##### dotefiles contains config files for shell , terminal, i3 and polybar
 
-> Arch_linux_common_problems_solutions.md file contains solutions to the common problems that happens after installing archlinux or manjaro
+##### Arch_linux_common_problems_solutions.md file contains solutions to the common problems that happens after installing archlinux or manjaro
 
 
 #### Polybar used in this config file has some custom icons. To use those icons in polybar
