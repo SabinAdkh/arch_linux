@@ -35,8 +35,8 @@ which bash
 ```
 > Change the shell using the following command
 ```bash
-chch -s /usr/bin/zsh # full path of the shell
-chch -s ($which zsh) /etc/shells
+chsh -s /usr/bin/zsh # full path of the shell
+chsh -s ($which zsh) /etc/shells
 ```
 
 ## To enable syncing in chromium browser
