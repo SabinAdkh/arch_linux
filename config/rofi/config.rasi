@@ -1,0 +1,12 @@
+configuration{
+	border: 20px;
+	modi: "run,drun,window";
+	font: "System San Francisco Display 1 0";
+	icon-theme: "Papirus";
+	drun-display-format: "{icon} {name}";
+	display-drun: " Apps ";
+	display-run: " Run ";
+	display-window: " Window ";
+	display-Network: " Network ";
+}
+@theme "gruvbox-dark"
